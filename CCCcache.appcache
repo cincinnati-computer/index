@@ -53,6 +53,9 @@ CACHE MANIFEST
 .\index.php\directions\index.html
 .\index.php\products\index.html
 .\index.php\services\index.html
+https://www.youtube.com/embed/IvbYRJkL0VE?version=3&hl=en_US&rel=0
+https://www.youtube.com/embed/8l-6f6w1U0c?version=3&hl=en_US&rel=0
 
 NETWORK:
+CCCcache.appcache
 *
