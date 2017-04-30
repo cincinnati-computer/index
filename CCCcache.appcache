@@ -55,4 +55,4 @@ CACHE MANIFEST
 .\index.php\services\index.html
 
 NETWORK:
-CCCcache.appcache
+*
