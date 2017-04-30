@@ -1,4 +1,6 @@
-/* cyrillic-ext */
+.tc-header .outside {
+	display: block !important;
+}/* cyrillic-ext */
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
