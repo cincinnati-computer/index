@@ -10,5 +10,12 @@
 	}
 }
 footer#footer .colophon {
-display:none;
+	display: none;
+}
+header {
+	position: static !important;
+}
+.main-wrapper {
+	width: 100vw;
+	margin: 1em;
 }
