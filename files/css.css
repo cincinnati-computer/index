@@ -9,11 +9,11 @@ unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
 @media (max-width:979px){
 	li>a{
 		padding: 0.5em;
-		background-color: grey;
+		background-color: rgba(0,0,0,0.125);
 	}
 	li>a:hover{
 		padding: 0.5em;
-		background-color: darkgrey;
+		background-color: rgba(0,0,0,0.25);
 	}
 }
 footer#footer .colophon {
