@@ -6,8 +6,6 @@
 		margin: 0.375em;
 	}
 	li>a:hover{
-		padding: 0.5em !important;
-		margin: 0.5em !important;
 		background-color: rgba(0,0,0,0.1875) !important;
 	}
 }
